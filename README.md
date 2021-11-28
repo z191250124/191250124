@@ -19,6 +19,8 @@ opencv-python 4.1.1.26
 
 ImageNet 2012 DataSets
 
+图片置于以下目录
+
 ```./data/imagenette2-320/train```
 
 ##### 代码内容：
